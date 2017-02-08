@@ -1,2 +1,2 @@
 
-print("My name is Arielle and my favorite colour is blue")
+print("My name is Arielle and my favorite colour is green")
